@@ -58,11 +58,11 @@ This project aims to answer key business questions such as:
 
 The analysis tracks important business metrics:
 
-- 💰 **Total Sales:** 14.92M
-- 📈 **Total Profit:** 1.52M
-- 🛒 **Total Orders:** 5,496
-- 🏷️ **Average Discount:** 4.97%
-- 🚚 **Total Shipping Cost:** 107.83K
+- 💰 **Total Sales :** 14.92M
+- 📈 **Total Profit :** 1.52M
+- 🛒 **Total Orders :** 5,496
+- 🏷️ **Average Discount :** 4.97%
+- 🚚 **Total Shipping Cost :** 107.83K
 
 ---
 
